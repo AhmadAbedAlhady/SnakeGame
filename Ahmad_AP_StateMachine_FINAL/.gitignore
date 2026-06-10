@@ -1,0 +1,9 @@
+﻿sim/work/
+*.wlf
+transcript
+*.log
+*.aux
+*.nav
+*.snm
+*.toc
+*.out
